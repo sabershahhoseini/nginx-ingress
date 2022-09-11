@@ -1,6 +1,8 @@
 # NGINX Ingress Controller On Kubernetes 
 Setup NGINX Ingress Controller On Kubernetes.
 
+## Gettings started:
+
 Clone the repo:
 
 ```
